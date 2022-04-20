@@ -1,0 +1,7 @@
+body{
+  background-repeat: no-repeat;
+}
+.jumbotron{
+  background: none;
+}
+html { overflow-x: hidden; }
